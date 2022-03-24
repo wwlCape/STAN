@@ -23,7 +23,7 @@ Deep convolutional neural network based video super-resolution (SR) models have 
 #### Prerequisites
 
 ```
-CUDA 10.2/gcc 5.4/PyTorch 1.4/CUDA 10.2
+CUDA 10.2/gcc 5.4/PyTorch 1.4
 ```
 
 #### Train a new model:
