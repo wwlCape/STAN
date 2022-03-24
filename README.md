@@ -45,7 +45,7 @@ python train.py -datasets_tasks W3_D1_C1_I1
 python test.py -method model_name -epoch N -dataset REDS4 -task SR_color/super-resolution
 ```
 
-### Pretrained Models
+#### Pretrained Models
 
 The pretrained model for STAN can be found from [here](https://drive.google.com/file/d/1vV-HIyKnVrNa8h2LVyRezleVmbwkVBy3/view?usp=sharing). 
 
